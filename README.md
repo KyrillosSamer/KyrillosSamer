@@ -39,25 +39,40 @@ I build **spatially intelligent** tools that visualize, filter, and interact wit
 
 ## 🧰 Tech Stack
 
-### 🖼️ Frontend Core
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <!-- Core Languages -->
+  <img height="50" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img height="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### 🗺️ GIS & Spatial
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1D6F42?style=for-the-badge&logo=openlayers&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GeoJSON](https://img.shields.io/badge/GeoJSON-006400?style=for-the-badge)
-![WMS/WFS](https://img.shields.io/badge/WMS/WFS-005CB8?style=for-the-badge)
+<p align="center">
+  <!-- Frontend Frameworks & Styling -->
+  <img height="50" src="https://img.shields.io/badge/Bootstrap-6E28C9?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img height="50" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-### 🔧 Tools & Dev Experience
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  <!-- GIS & Spatial Tools -->
+  <img height="50" src="https://img.shields.io/badge/OpenLayers-1D6F42?style=for-the-badge&logo=openlayers&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/GeoJSON-006400?style=for-the-badge" />
+  <img height="50" src="https://img.shields.io/badge/WMS/WFS-005CB8?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <!-- Tools & Utilities -->
+  <img height="50" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+  <img height="50" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 ---
 
 ## 🧩 Featured Projects
