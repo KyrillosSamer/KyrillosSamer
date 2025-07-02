@@ -1,62 +1,92 @@
-<h1 align="center">Hi there 👋, I'm [Your Name in English or Arabic]</h1>
+<h1 align="center">Hi, I'm a self-taught developer driven by clarity, structure, and impact.</h1>
 <p align="center">
-  🧠 Self-taught Developer | 💻 Frontend & GIS Systems | 🌍 Based in Egypt
+  🧭 Turning complex data into interactive systems. <br>
+  🧠 Logical thinker | 🛠 Problem solver | 🌍 Passionate about maps & clean UI
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
-- 💡 Passionate about building interactive *web apps, especially those integrating **maps, spatial data*, and real-time features.
-- 🎯 Focused on delivering clean code, performance, and usability.
-- 📚 Self-learner: Completed *CS50, explored **C++ fundamentals, and dove into **data structures, **algorithms, and **design patterns*.
-- 🚫 Not a "Data Analyst" – I write code that runs and scales.
+I'm a *self-taught software developer* with a strong focus on *Frontend engineering* and *GIS-based web systems. My journey started with low-level programming in **C++, moved through core computer science concepts like **algorithms, **data structures, and **OOP, and evolved into building real, production-grade **interactive platforms* used by institutions and end-users.
 
----
-
-## 💼 Tech Stack
-
-### 🖥️ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 🌍 GIS & Mapping
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1E90FF?style=flat&logo=OpenStreetMap&logoColor=white)  
-![M.App Enterprise](https://img.shields.io/badge/M.App%20Enterprise-gray?style=flat)  
-*Buffer analysis, **Symbology, **Map filtering, **Spatial Dashboards*
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+I don’t just write code—I build systems that solve real problems.
 
 ---
 
-## 🔧 Projects
+## 🚀 What I Do Best
 
-Here are some highlights from my work:
-
-- 📌 *Interactive Spatial Tool* – Displays data on click within a configurable buffer, with Excel export and zoom-to-feature.
-- 📊 *Geo Dashboard* – Filterable map + printable PDF tables + colored symbology by status.
-- 🌐 *Military Land Portal* – Public-facing web portal inspired by Germany’s GDI, built with OpenLayers.
-- 🛠️ *Ministry Dashboards* – Created interactive dashboards for government entities using M.App Enterprise.
-- 🚀 *Frontend Projects* – Built responsive interfaces with *Next.js, **React, and **Tailwind CSS*.
+✅ Build interactive maps and spatial apps using OpenLayers  
+✅ Develop modern UIs using *Next.js, **React, and **Tailwind CSS*  
+✅ Architect web tools that combine *data visualization, **filtering, and **exporting*  
+✅ Translate complex requirements into practical, fast, and scalable interfaces  
+✅ Understand and apply software design principles (OOP, design patterns, clean architecture)
 
 ---
 
-## 📫 Contact Me
+## 💻 Languages & Tools
 
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio: [your-portfolio-link] (optional)
-- 💬 LinkedIn: [your LinkedIn link] (optional)
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Frontend Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
-## 🧭 Side Note
+## 📌 Featured Projects
 
-> Currently preparing for projects involving *Web3* & distributed systems (via GitLab pipelines). Always looking to build tools that are both useful and elegant.
+### 🔵 Interactive Spatial Viewer  
+- Map-based app with *buffer radius control, **click-to-query, **zoom-to-feature, and **Excel export*  
+- Customizable UI (color, transparency, layer toggling)
+
+### 🟡 Geo Dashboard with Filters  
+- Displays spatial data by *organization & date*  
+- Built-in *PDF reports* and *color-based status symbology*
+
+### 🟢 Military Land Portal (Public-Facing GIS)  
+- Portal for citizens to access spatial info about military-owned lands  
+- Designed to mimic the German GDI experience using *OpenLayers*
+
+### 🧩 Dashboards for Ministries  
+- Government-facing dashboards using *M.App Enterprise*, integrated with real-time data and maps
+
+### 🛠 Web3 Project (in progress)  
+- Contributing to a decentralized app with *GitLab-based deployment* pipelines and *modular frontend architecture*
 
 ---
 
-⭐️ If you like what I do, consider giving a star to some of my repositories or connecting on GitHub!
+## 🎯 Strengths
+
+- 💡 Sharp problem analysis & system thinking  
+- 🧱 Strong foundation in software architecture  
+- 🔍 Extreme attention to detail & edge cases  
+- 🧠 Self-discipline & rapid self-learning  
+- 🗂 Ability to turn abstract ideas into interactive tools
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: kyrillossamer770@gmail.com
+
+---
+
+## 📌 Final Note
+
+> I'm not here to showcase pretty dashboards.  
+> I'm here to build useful, stable, and scalable *tools that work*.
+
+⭐️ Feel free to explore my repos or reach out for collaboration!
