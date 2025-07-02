@@ -1,93 +1,103 @@
-<h1 align="center">👋 Hi, I'm a self-taught developer driven by clarity, structure, and impact.</h1>
+<h1 align="center">👋 Hi, I'm Kyrillos — a frontend & GIS developer passionate about clarity, structure, and real-world impact.</h1>
 
 <p align="center">
-  🧭 Turning complex data into interactive systems <br>
-  🧠 Logical thinker | 🛠 Problem solver | 🌍 Passionate about maps & clean UI
+  🧭 I build interactive systems that combine modern UI with spatial intelligence <br>
+  🧠 Logical thinker | 🛠 Problem solver | 🌍 Expert in maps & clean frontend design
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kyrillos-samer-82b862263" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I'm a *self-taught software developer* with a strong focus on *frontend engineering* and *GIS-based web systems*.  
-My journey began with low-level programming in **C++**, moved through core CS concepts like **algorithms**, **data structures**, and **OOP**, and evolved into building real, production-grade **interactive platforms** used by institutions and end-users.
+I’m a **frontend-focused software developer** with solid experience in **GIS platforms** and spatial data systems.  
+My journey began with **C++** and core computer science concepts, then evolved into crafting **interactive, production-grade web apps** — many of which integrate **map technology**, **real-time data**, and **advanced filtering**.
 
-> I don’t just write code—I build systems that solve real problems.
+> I'm not just a frontend dev.  
+> I'm also a GIS developer — someone who understands spatial logic, projections, and real-world geodata challenges.
 
 ---
 
 ## 🚀 What I Do Best
 
-✅ Build interactive maps and spatial apps using **OpenLayers**  
-✅ Develop modern UIs with **React**, **Next.js**, and **Tailwind CSS**  
-✅ Architect web tools that combine **data visualization**, **filtering**, and **exporting**  
-✅ Translate complex requirements into fast, scalable interfaces  
-✅ Apply solid software design principles (OOP, design patterns, clean architecture)
+✅ Build modern UIs using **React**, **Next.js**, **Tailwind CSS**  
+✅ Develop interactive map apps using **OpenLayers**, **WMS/WFS**, **GeoJSON**, and **SHP**  
+✅ Design custom dashboards with **spatial filters**, **color symbology**, and **data exports**  
+✅ Translate complex spatial requirements into fast, responsive interfaces  
+✅ Combine frontend patterns with geospatial logic (CRS, feature querying, topology)
 
 ---
 
 ## 💻 Languages & Tools
 
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Core Languages -->
+  <img height="50" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img height="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Python-3676AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <!-- Frontend & GIS Tools -->
+  <img height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img height="50" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Bootstrap-6E28C9?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/OpenLayers-1D6F42?style=for-the-badge&logo=openlayers&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/PostGIS-0099CC?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔵 Interactive Spatial Viewer  
-- Map-based app with **buffer radius control**, **click-to-query**, **zoom-to-feature**, and **Excel export**  
-- Customizable UI with layer toggling, transparency control, and color themes
+### 🔵 **Interactive Spatial Viewer**  
+- Built with **OpenLayers**, supports **buffer radius**, **click-to-query**, **zoom-to-feature**, and **Excel export**  
+- Highly customizable UI: color themes, layer toggling, transparency
 
-### 🟡 Geo Dashboard with Filters  
-- Displays spatial data by **organization** and **date**  
-- Includes **PDF reports** and color-based status symbology
+### 🟡 **Geo Dashboard with Filters**  
+- Filter spatial layers by **organization**, **status**, and **date**  
+- Includes **PDF reports**, symbology, and real-time map feedback
 
-### 🟢 Military Land Portal (Public GIS)  
-- Public portal for spatial access to military-owned lands  
-- Designed to reflect the German GDI experience using **OpenLayers**
+### 🟢 **Military Land Portal (Public GIS)**  
+- Citizen-facing GIS portal mimicking German GDI style  
+- Features **search**, **zoom-to-feature**, and responsive design
 
-### 🧩 Dashboards for Ministries  
-- Government dashboards using **M.App Enterprise**, integrated with real-time data and interactive maps
+### 🧩 **Dashboards for Ministries**  
+- Used by government agencies with **live maps**, **status indicators**, and **real-time data integration**
 
-### 🛠 Web3 Project (In Progress)  
-- Contributing to a decentralized app with **GitLab-based CI/CD pipelines** and **modular frontend architecture**
 
 ---
 
 ## 🎯 Strengths
 
-- 💡 Sharp problem analysis & system thinking  
-- 🧱 Strong foundation in software architecture  
-- 🔍 Extreme attention to detail & edge cases  
-- 🧠 Self-discipline & fast learner  
-- 🗂 Ability to turn abstract ideas into interactive tools
+- 💡 Strong in both frontend architecture and GIS logic  
+- 🧱 Capable of handling spatial formats: SHP, GeoJSON, KML, WMS, WFS  
+- 🧠 Deep understanding of coordinate systems, projections, and topology  
+- 🎨 Strong UI/UX mindset: accessibility, clarity, responsiveness  
+- 🔧 Able to connect backend spatial data to modern web frontends
 
 ---
 
 ## 📫 Let’s Connect
 
 - 📧 Email: kyrillossamer770@gmail.com  
-- 🌐 [LinkedIn or GitHub link here if available]
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kyrillos-samer-82b862263)
 
 ---
 
 ## 📌 Final Note
 
-> I'm not here to showcase pretty dashboards.  
-> I'm here to build stable, scalable, and useful **tools that work**.
+> I don’t just build interfaces.  
+> I build tools that **communicate spatial data**, **solve real problems**, and **scale with clarity**.
 
-⭐️ Feel free to explore my repositories or reach out for collaboration!
+⭐️ Explore my repos or reach out if you're building something meaningful.
