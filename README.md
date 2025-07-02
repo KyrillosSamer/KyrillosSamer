@@ -1,103 +1,116 @@
-<h1 align="center">👋 Hi, I'm Kyrillos — a frontend & GIS developer passionate about clarity, structure, and real-world impact.</h1>
+<h1 align="center">Hi, I'm Kyrillos 👋 | Frontend Developer with GIS Superpowers</h1>
 
 <p align="center">
-  🧭 I build interactive systems that combine modern UI with spatial intelligence <br>
-  🧠 Logical thinker | 🛠 Problem solver | 🌍 Expert in maps & clean frontend design
+  💻 Pixel-perfect frontend engineer • 🗺️ Geospatial systems specialist • 🧠 Logical & structured thinker
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kyrillos-samer-82b862263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://kyrillossamer.github.io/myPortfolio" target="_blank">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/kyrillos-samer-82b862263" target="_blank">🔗 LinkedIn</a> |
+  📫 kyrillossamer770@gmail.com
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 👨‍💻 About Me
 
-I’m a **frontend-focused software developer** with solid experience in **GIS platforms** and spatial data systems.  
-My journey began with **C++** and core computer science concepts, then evolved into crafting **interactive, production-grade web apps** — many of which integrate **map technology**, **real-time data**, and **advanced filtering**.
+I’m a **frontend developer by craft**, driven by clean design systems, reusable components, and intuitive UI/UX.
 
-> I'm not just a frontend dev.  
-> I'm also a GIS developer — someone who understands spatial logic, projections, and real-world geodata challenges.
+But I bring a twist — I specialize in **GIS (Geographic Information Systems)**. That means I don’t just build beautiful interfaces...  
+I build **spatially intelligent** tools that visualize, filter, and interact with complex geodata.
+
+- 🧠 Strong in design logic, data structuring, and responsive architecture  
+- 🗺️ Experienced in spatial challenges (CRS, projections, topology, live WMS layers)  
+- ⚙️ Able to connect frontend components to complex APIs and real-time spatial databases  
 
 ---
 
 ## 🚀 What I Do Best
 
-✅ Build modern UIs using **React**, **Next.js**, **Tailwind CSS**  
-✅ Develop interactive map apps using **OpenLayers**, **WMS/WFS**, **GeoJSON**, and **SHP**  
-✅ Design custom dashboards with **spatial filters**, **color symbology**, and **data exports**  
-✅ Translate complex spatial requirements into fast, responsive interfaces  
-✅ Combine frontend patterns with geospatial logic (CRS, feature querying, topology)
+| Skill Area | Description |
+|------------|-------------|
+| 🎨 **Frontend Architecture** | React, Next.js, Tailwind, reusable components, performance optimization |
+| 📦 **State Management** | React Query, Zustand, Context API |
+| 🗺️ **Spatial Development** | OpenLayers, GeoJSON, WMS/WFS, PostGIS |
+| 📊 **Dashboards** | Filter systems, analytics, role-based views, data export (Excel, PDF) |
+| 🧪 **UX Design Thinking** | Accessibility, hierarchy, clarity, responsive flows |
 
 ---
 
-## 💻 Languages & Tools
+## 🧰 Tech Stack
 
-<p align="center">
-  <!-- Core Languages -->
-  <img height="50" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img height="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/Python-3676AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### 🖼️ Frontend Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="center">
-  <!-- Frontend & GIS Tools -->
-  <img height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img height="50" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/Bootstrap-6E28C9?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/OpenLayers-1D6F42?style=for-the-badge&logo=openlayers&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/PostGIS-0099CC?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### 🗺️ GIS & Spatial
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1D6F42?style=for-the-badge&logo=openlayers&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-006400?style=for-the-badge)
+![WMS/WFS](https://img.shields.io/badge/WMS/WFS-005CB8?style=for-the-badge)
+
+### 🔧 Tools & Dev Experience
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🧩 Featured Projects
 
-### 🔵 **Interactive Spatial Viewer**  
-- Built with **OpenLayers**, supports **buffer radius**, **click-to-query**, **zoom-to-feature**, and **Excel export**  
-- Highly customizable UI: color themes, layer toggling, transparency
+### 🔵 Interactive Spatial Viewer
+> An OpenLayers-based map viewer built for performance and clarity.
 
-### 🟡 **Geo Dashboard with Filters**  
-- Filter spatial layers by **organization**, **status**, and **date**  
-- Includes **PDF reports**, symbology, and real-time map feedback
+- 🔍 Features: buffer radius, click-to-query, zoom-to-feature
+- 🧰 Export: Excel-ready attributes, layer toggles, dynamic styling
 
-### 🟢 **Military Land Portal (Public GIS)**  
-- Citizen-facing GIS portal mimicking German GDI style  
-- Features **search**, **zoom-to-feature**, and responsive design
+### 🟡 Geo Dashboard (Multi-layer Filter)
+> An analytics dashboard for spatial datasets.
 
-### 🧩 **Dashboards for Ministries**  
-- Used by government agencies with **live maps**, **status indicators**, and **real-time data integration**
+- 🗂️ Filter by organization, date, and status
+- 🖨️ PDF reports, real-time symbology, and responsive charts
 
+### 🟢 Military Land GIS Portal
+> Built a public-facing GIS platform for citizens with mobile-first experience.
 
----
+- 🇪🇬 Styled like German GDI portals
+- 📍 Instant zoom-to-feature, address search, responsive layout
 
-## 🎯 Strengths
+### 🔴 Ministries Dashboard
+> Used internally by agencies for tracking spatial data and infrastructure.
 
-- 💡 Strong in both frontend architecture and GIS logic  
-- 🧱 Capable of handling spatial formats: SHP, GeoJSON, KML, WMS, WFS  
-- 🧠 Deep understanding of coordinate systems, projections, and topology  
-- 🎨 Strong UI/UX mindset: accessibility, clarity, responsiveness  
-- 🔧 Able to connect backend spatial data to modern web frontends
+- 🧭 Real-time data sync, status indicators, and user-based access
 
 ---
 
-## 📫 Let’s Connect
+## 🧠 Strengths Beyond Code
 
-- 📧 Email: kyrillossamer770@gmail.com  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kyrillos-samer-82b862263)
+- 📐 **UI/UX Sensibility**: I care about layout logic, visual flow, and micro-interactions  
+- 🗺️ **Spatial Reasoning**: I get CRS, feature overlays, and the "why" of maps  
+- 🧰 **Engineering Rigor**: I structure components for scalability and performance  
+- 🤝 **Team Collaboration**: I’ve worked with designers, backend engineers, and data analysts to ship polished systems
 
 ---
 
-## 📌 Final Note
+## 📬 Let’s Connect
 
-> I don’t just build interfaces.  
-> I build tools that **communicate spatial data**, **solve real problems**, and **scale with clarity**.
+📧 Email: **kyrillossamer770@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kyrillos-samer-82b862263)  
+🌐 [Portfolio Website](https://kyrillossamer.github.io/myPortfolio)
 
-⭐️ Explore my repos or reach out if you're building something meaningful.
+---
+
+## ✨ Final Note
+
+> I don’t just build web apps —  
+> I craft **map-powered interfaces** that are fast, clean, and useful.
+
+If you're working on **smart dashboards, maps, or scalable UI**,  
+📩 let’s connect — I'm ready to contribute.
+
+---
+
